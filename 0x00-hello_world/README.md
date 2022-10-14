@@ -2,3 +2,4 @@
 2-Compile without linking
 Assembler file
 Output file after compiling
+Printing out text with c
