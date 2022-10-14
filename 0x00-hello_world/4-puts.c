@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-
-/*
+/**
+ * main - Entry point
  *
- * Program that prints out a text when it runs
+ * Return: always 0
  */
 int main(void)
 {
