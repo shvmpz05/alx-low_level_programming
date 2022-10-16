@@ -1,1 +1,1 @@
-0- Positive or negative
+1-Last digit of value
