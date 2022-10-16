@@ -5,3 +5,4 @@
 4- Printing only some of the alphabets
 5-Counting from 0 to 9
 6- Counting without characters
+7- Alphabets backwards
