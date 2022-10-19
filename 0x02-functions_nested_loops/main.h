@@ -53,7 +53,7 @@ int print_sign(int n);
 /**
  * _abs - Prints absolute value of integer
  *
- * @n: parameter to check
+ * @int: parameter to check
  *
  * Return: 0 or 1
  */
@@ -69,4 +69,14 @@ int _abs(int);
  */
 
 int print_last_digit(int n);
+
+/*
+ * jack_bauer - prints every minute of the day of Jack Bauer
+ *
+ * @void: not parameter
+ *
+ * Return: 1 or 0
+ */
+
+void jack_bauer(void);
 #endif

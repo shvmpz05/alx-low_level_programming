@@ -5,3 +5,4 @@
 Checking sign of a number
 6- Printing absolute value of integer
 7- Print last digit of value
+Print every day of the minute of jack bauer
