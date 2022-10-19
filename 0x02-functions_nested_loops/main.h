@@ -93,10 +93,21 @@ void times_table(void);
 /**
  * add - Adding to number and printing result
  *
- * @int, int: parameter to check
+ * @int: parameter to check
+ * @int: parameter to check
  *
  * Return: Always 0 Success
  */
 
 int add(int, int);
+
+/**
+ * print_to_98 - Print numbers from n to 98
+ *
+ * @n: parameter to check
+ *
+ * Return: Always 0
+ */
+
+void print_to_98(int n);
 #endif
