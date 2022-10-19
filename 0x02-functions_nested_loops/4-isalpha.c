@@ -5,7 +5,7 @@
  *
  * @c: character to check
  *
- * Returns: 1 or 0
+ * Return: 1 or 0
  */
 
 int _isalpha(int c)
