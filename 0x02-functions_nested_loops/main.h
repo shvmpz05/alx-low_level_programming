@@ -58,5 +58,15 @@ int print_sign(int n);
  * Return: 0 or 1
  */
 
-int _abs(int n);
+int _abs(int);
+
+/*
+ * print_last_digit - print last digit of a number
+ *
+ * @n: parameter to be checked
+ *
+ * Return: 0 or 1
+ */
+
+int print_last_digit(int n);
 #endif

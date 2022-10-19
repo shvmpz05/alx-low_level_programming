@@ -4,3 +4,4 @@
 4- Check if alphabet
 Checking sign of a number
 6- Printing absolute value of integer
+7- Print last digit of value
