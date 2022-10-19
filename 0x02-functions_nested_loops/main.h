@@ -89,4 +89,14 @@ void jack_bauer(void);
  */
 
 void times_table(void);
+
+/**
+ * add - Adding to number and printing result
+ *
+ * @int, int: parameter to check
+ *
+ * Return: Always 0 Success
+ */
+
+int add(int, int);
 #endif
