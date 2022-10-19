@@ -3,3 +3,4 @@
 3- Cheking if lowecase or uppercase
 4- Check if alphabet
 Checking sign of a number
+6- Printing absolute value of integer
