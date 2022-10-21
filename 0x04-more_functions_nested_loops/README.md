@@ -4,3 +4,4 @@
 3-Printing number
 4-printing all numbers except 2
 5-More numbers
+6-Printing line in terminal
