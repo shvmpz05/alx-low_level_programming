@@ -7,3 +7,4 @@
 6-Printing line in terminal
 7-Printing diagonal
 8-Printing squares
+9-Fizz Buzz
