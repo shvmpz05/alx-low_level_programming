@@ -2,8 +2,8 @@
 
 /**
  * more_numbers - prints out 0 to 14 ten times
- * @void: no parameter 
- * Return: 0 
+ * @void: no parameter
+ * Return: 0
  */
 
 void more_numbers(void)
