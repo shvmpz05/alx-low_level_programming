@@ -2,7 +2,7 @@
 
 /**
  * _isdigit - Checks for numbers 0 to 9
- * @c: parameter to pass 
+ * @c: parameter to pass
  * Return: 0
  */
 
