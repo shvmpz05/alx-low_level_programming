@@ -6,3 +6,4 @@
 5-More numbers
 6-Printing line in terminal
 7-Printing diagonal
+8-Printing squares
