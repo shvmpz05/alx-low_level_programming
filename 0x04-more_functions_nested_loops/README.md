@@ -5,3 +5,4 @@
 4-printing all numbers except 2
 5-More numbers
 6-Printing line in terminal
+7-Printing diagonal
