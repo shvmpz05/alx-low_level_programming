@@ -3,7 +3,7 @@
 /**
  * reset_to_98 - updates value to 98
  *
- * @n: takes in an address 
+ * @n: takes in an address
  *
  * Return: 0 Always Success
  */
