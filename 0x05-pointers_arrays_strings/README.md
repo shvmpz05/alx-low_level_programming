@@ -6,3 +6,4 @@ Print line in reverse
 5-Reversing String
 6- Only evens
 7-Half and half baby
+8-Printing array
