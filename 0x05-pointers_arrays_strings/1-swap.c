@@ -4,13 +4,16 @@
  * swap_int - swaps values of integers
  *
  * @a: pointer to be checked
- * @b: pointer to be taken 
+ * @b: pointer to be taken
  *
  * Return: Nothing
  */
 
 void swap_int(int *a, int *b)
 {
-	*a = 42;
-	*b = 98;
+	int d = *a;
+	int c = *b;
+
+	*a = c;
+	*b = d;
 }
