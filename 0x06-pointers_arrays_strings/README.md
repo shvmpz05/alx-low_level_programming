@@ -4,3 +4,4 @@
 4-Put it in reverse
 5-String toupper
 6-Capping strings
+7-Its leet
