@@ -3,3 +3,4 @@
 2-Copying a string
 4-Put it in reverse
 5-String toupper
+6-Capping strings
