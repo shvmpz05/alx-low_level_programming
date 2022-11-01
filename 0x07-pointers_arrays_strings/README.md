@@ -5,3 +5,4 @@
 4-Searching for sting for any set bytes
 5-Locating a substring
 7-Chessboard
+8-Printing diagrams
