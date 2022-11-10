@@ -12,10 +12,11 @@
 int main(int argc, char  *argv[])
 {
 	int coins = 0;
-	int money;
 
 	if (argc == 2)
 	{
+		int money;
+
 		if (strchr(argv[argc - 1], '-'))
 		{
 			printf("0\n");
