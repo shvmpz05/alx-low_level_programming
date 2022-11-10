@@ -8,7 +8,7 @@
  * @argc: counts the number of arguments
  * @argv: stores the arguments
  *
- * Return
+ * Return: 0 Always Success
  */
 
 int main(int argc, char *argv[])
